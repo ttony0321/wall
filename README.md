@@ -1,6 +1,8 @@
 # wall
 Image classification
 
+도배 하자 유형 분류 AI 경진대회
+
 전처리, trainset 만들기
 
 학습, submit만드는과정 생기는 언어 오류 해결
